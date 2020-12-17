@@ -29,3 +29,20 @@ th{
 table {
     border-collapse: collapse
 }
+.item_com_quadrado{
+    list-style-type:square;
+}
+dt{
+    font-weight: bold;
+}
+dd{
+    font-style:italic;
+}
+body{
+    background-color:#d2d2d2
+}
+#header{
+    background-color: white;
+    font-size: xx-large;
+    padding: 20px;
+}
